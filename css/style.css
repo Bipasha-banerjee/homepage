@@ -1,0 +1,20 @@
+.color-yellow,
+.color-hover-yellow:hover {
+    color: #000!important;
+    background-color: #ffeb3b!important
+}
+
+.color-lav,
+.color-hover-lav:hover {
+    color: #000!important;
+    background-color: #6d6abe!important
+}
+
+.row-fifth {
+    width: 20%
+}
+
+.row-fifth {
+    float: left;
+    width: 100%
+}
