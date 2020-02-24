@@ -19,3 +19,8 @@
     padding-top: 48px!important;
     padding-bottom: 80px!important
 }
+
+.social-me {
+    display: inline-block;
+    margin: 0 15px 5px 0;
+}
