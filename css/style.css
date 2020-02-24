@@ -1,20 +1,21 @@
 .color-yellow,
 .color-hover-yellow:hover {
     color: #000!important;
-    background-color: #ffeb3b!important
+    background-color: #184b21!important
 }
 
 .color-lav,
 .color-hover-lav:hover {
     color: #000!important;
-    background-color: #6d6abe!important
+    background-color: #440e0c!important
 }
 
-.row-fifth {
-    width: 20%
+.text-color-lav,
+.text-hover-lav:hover {
+    color: #440e0c!important
 }
 
-.row-fifth {
-    float: left;
-    width: 100%
+.my-padding-64 {
+    padding-top: 48px!important;
+    padding-bottom: 80px!important
 }
